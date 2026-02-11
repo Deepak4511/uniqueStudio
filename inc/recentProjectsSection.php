@@ -1,12 +1,12 @@
-<section class="recent-projects-section py-100 position-relative bg-white">
+<section class="recent-projects-section py-100 position-relative bg-white py-80">
     <div class="container">
         <!-- Header -->
         <div class="row align-items-end mb-4">
             <div class="col-lg-8">
-                <h6 class="text-orange text-uppercase fw-bold mb-2 ls-2">
-                    <i class="bi bi-bezier2 me-2"></i>PROJECTS
+                <h6 class="text-orange text-uppercase subtitle">
+                    PROJECTS
                 </h6>
-                <h2 class="display-4 fw-bold mb-0">Explore our Recent Projects</h2>
+                <h2 class="sec_title fw-bold mb-0">Explore our Recent Projects</h2>
             </div>
             <div class="col-lg-4 text-lg-end mt-4 mt-lg-0">
                 <a href="#" class="btn btn-orange rounded-pill px-4 py-2 fw-bold text-uppercase fs-6">

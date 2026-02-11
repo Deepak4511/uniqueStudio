@@ -1,12 +1,12 @@
-<section class="testimonial-section py-100 position-relative">
+<section class="testimonial-section py-80 position-relative">
     <div class="container">
         <!-- Section Header -->
         <div class="row justify-content-center mb-5">
             <div class="col-lg-8 text-center text-white">
-                <h6 class="text-orange text-uppercase fw-bold mb-2 ls-2">
-                    <i class="bi bi-bezier2 me-2"></i>FEEDBACK
+                <h6 class="text-orange text-uppercase subtitle mb-2 ls-2">
+                    FEEDBACK
                 </h6>
-                <h2 class="display-4 fw-bold mb-3">Customers about Our Service</h2>
+                <h2 class="display-4 sec_title mb-3">Customers about Our Service</h2>
                 <p class="text-secondary">
                     There are many variations of passages of lorem but the majority.
                 </p>

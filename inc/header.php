@@ -20,11 +20,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: "Inter", "Urbanist", sans-serif;
-        }
-    </style>
+
 </head>
 
 <body>

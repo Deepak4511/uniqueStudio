@@ -5,11 +5,6 @@
             <!-- Left Column: Image & Decorative Elements -->
             <div class="col-lg-6 mb-5 mb-lg-0 position-relative">
                 <div class="image-wrapper position-relative text-center">
-
-                    <!-- Decorative Blob Background -->
-                    <div class="blob-shape-bg"></div>
-
-                    <!-- Main Image -->
                     <img src="https://images.unsplash.com/photo-1531545514256-b1400bc00f31?q=80&w=1000&auto=format&fit=crop" alt="Team Member" class="img-fluid position-relative z-1 main-img">
                 </div>
             </div>
@@ -19,14 +14,14 @@
                 <h6 class="text-orange text-uppercase subtitle  mb-3">
                     WHO WE ARE
                 </h6>
-                <h2 class="sec_title mb-4">Unique Studio Provide Complete Printing Solution</h2>
+                <h2 class="sec_title mb-5">Unique Studio Provide Complete Printing Solution</h2>
 
                 <!-- Highlight Badge -->
-                <div class="highlight-badge d-inline-block mb-4">
+                <p class="highlight-badge d-inline-block mb-5">
                     <span class="text-orange fw-bold">Since 2004</span>, Based on Lucknow, U.P
-                </div>
+                </p>
 
-                <p class="text-muted mb-5">
+                <p class="text-muted mb-4">
                     On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized.
                 </p>
 

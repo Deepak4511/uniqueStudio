@@ -1,11 +1,11 @@
-<section class="faq-section py-100 bg-light-orange-50">
+<section class="faq-section py-100 bg-light-orange-50 pt-100 pb-100 mb-80">
     <div class="container">
         <div class="row justify-content-center mb-5">
             <div class="col-lg-8 text-center">
-                <h6 class="text-orange text-uppercase fw-bold mb-2 ls-2">
-                    <i class="bi bi-bezier2 me-2"></i>Q&A
+                <h6 class="text-orange subtitle text-uppercase mb-2 ls-2">
+                    FAQ
                 </h6>
-                <h2 class="display-4 fw-bold mb-3">Frequently Asked Questions</h2>
+                <h2 class="sec_title fw-bold mb-3">Frequently Asked Questions</h2>
                 <p class="text-muted">
                     Find answers to common questions about our printing services, delivery, and customization options.
                 </p>

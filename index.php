@@ -15,6 +15,18 @@ include('inc/heroSection.php');
 include('inc/features.php');
 ?>
 
+<!-- Who We Are Section -->
+<?php
+include('inc/whoWeAreSection.php');
+?>
+
+
+<!-- Popular Products Section -->
+<?php
+include('inc/popularProducts.php');
+?>
+
+
 <!-- Working Process Section -->
 <?php
 include('inc/workingProcessSection.php');
@@ -25,10 +37,6 @@ include('inc/workingProcessSection.php');
 include('inc/statsSection.php');
 ?>
 
-<!-- Who We Are Section -->
-<?php
-include('inc/whoWeAreSection.php');
-?>
 
 <!-- Categories Section -->
 <?php
