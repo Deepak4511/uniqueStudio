@@ -9,6 +9,12 @@ $page = 'Home';
 include('inc/heroSection.php');
 ?>
 
+<?php
+$page = 'Home';
+include('inc/featureStrip.php');
+include('inc/agency_solutions.php');
+?>
+
 
 <!-- Features Section -->
 <?php

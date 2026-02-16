@@ -1,5 +1,5 @@
-<section class="position-relative w-100 px-4 pt-2  py-50">
-    <div class="hero-bannerherosection position-relative container-fluid overflow-hidden px-0">
+<section class="position-relative w-100 px-4 pt-2  py-50 bannerherosection">
+    <div class="hero  position-relative container-fluid overflow-hidden px-0">
 
         <!-- Controls (Custom Vertical Pagination kept for visuals, but now controls horizontal slide) -->
         <!-- Hidden on smaller screens via CSS d-none d-lg-flex -->
@@ -54,8 +54,13 @@
                                 <p class="mt-4 hero-subtext mx-auto mx-lg-0">
                                     Elegant designs and premium finishes to showcase your most cherished family memories.
                                 </p>
-                                <button class="mt-4 btn-hero-start">Start Your Project</button>
+                                <div class="d-flex gap-3 group_btn">
+                                    <button class="mt-4 hero_btn1">Explore</button>
+                                    <button class="mt-4 hero_btn2">How It Works</button>
+                                </div>
+
                             </div>
+
                         </div>
 
                         <!-- Right Image Side -->
@@ -95,7 +100,10 @@
                                 <p class="mt-4 hero-subtext mx-auto mx-lg-0">
                                     Transform your favorite photos into stunning gallery-quality canvas art.
                                 </p>
-                                <button class="mt-4 btn-hero-start">Explore Canvas</button>
+                                <div class="d-flex gap-3 group_btn">
+                                    <button class="mt-4 hero_btn1">Explore</button>
+                                    <button class="mt-4 hero_btn2">How It Works</button>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-6 col-12 position-relative">
@@ -133,7 +141,10 @@
                                 <p class="mt-4 hero-subtext mx-auto mx-lg-0">
                                     Personalized mugs, t-shirts, and keepsakes that make the perfect present.
                                 </p>
-                                <button class="mt-4 btn-hero-start">Create a Gift</button>
+                                <div class="d-flex gap-3 group_btn">
+                                    <button class="mt-4 hero_btn1">Explore</button>
+                                    <button class="mt-4 hero_btn2">How It Works</button>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-6 col-12 position-relative">

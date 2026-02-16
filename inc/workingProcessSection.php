@@ -1,84 +1,98 @@
-<section class="working-process-section pb-100 pt-100">
-    <div class="container">
+<section class="working-process-section py-5" style="background-color: var(--grey);">
+    <div class="container py-5">
         <!-- Header -->
-        <div class="row justify-content-center mb-5">
-            <div class="col-12 text-center">
-                <h6 class="text-uppercase text-orange fw-bold mb-2 ls-2">
-                    <i class="bi bi-bezier2 me-2"></i>WORKING PROCESS
-                </h6>
-                <h2 class="fw-bold display-5">From Concept to Doorstep</h2>
+        <div class="row mb-5">
+            <div class="col-lg-6">
+                <div class="d-flex align-items-center mb-2">
+                    <span class="fw-bold text-dark">Our Work Process</span>
+                </div>
+                <h2 class="display-4 fw-bold">Step-by-Step to <br>Your Growth</h2>
+            </div>
+            <div class="col-lg-6 d-flex align-items-end">
+                <p class="text-muted mb-2">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                </p>
             </div>
         </div>
 
         <!-- Steps -->
-        <div class="row pt-4 position-relative">
+        <div class="row g-3">
 
             <!-- Step 1 -->
-            <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-                <div class="process-step text-center">
-                    <div class="process-icon-wrapper mb-4">
-                        <div class="icon-bg bg-light-orange">
-                            <i class="bi bi-vector-pen text-orange fs-1"></i>
+            <div class="col-lg-3 col-md-6">
+                <div class="process-new-card">
+                    <div class="card-body-content">
+                        <div class="d-flex justify-content-between align-items-start position-relative">
+                            <h4 class="process-title">Discover & Strategize</h4>
+                            <div class="big-number-bg">01</div>
                         </div>
-                        <span class="step-badge">01</span>
+                        <p class="process-desc">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+                        </p>
                     </div>
-                    <h4 class="fw-bold mb-3">Design</h4>
-                    <p class="text-muted small px-2">
-                        Nor again is there anyone who loves or pursues or desires to itself because it is pain.
-                    </p>
+                    <div class="process-card-footer">
+                        <span class="step-label">STEP</span>
+                        <span class="step-num">01</span>
+                    </div>
                 </div>
             </div>
 
             <!-- Step 2 -->
-            <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-                <div class="process-step text-center">
-                    <div class="process-icon-wrapper mb-4">
-                        <div class="icon-bg bg-light-orange">
-                            <i class="bi bi-printer text-orange fs-1"></i>
+            <div class="col-lg-3 col-md-6">
+                <div class="process-new-card">
+                    <div class="card-body-content">
+                        <div class="d-flex justify-content-between align-items-start position-relative">
+                            <h4 class="process-title">Execute & Optimize</h4>
+                            <div class="big-number-bg">02</div>
                         </div>
-                        <span class="step-badge">02</span>
+                        <p class="process-desc">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+                        </p>
                     </div>
-                    <h4 class="fw-bold mb-3">Printing</h4>
-                    <p class="text-muted small px-2">
-                        Right to find fault with a man who chooses to pleasure all annoying consequences.
-                    </p>
+                    <div class="process-card-footer">
+                        <span class="step-label">STEP</span>
+                        <span class="step-num">02</span>
+                    </div>
                 </div>
             </div>
 
             <!-- Step 3 -->
-            <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-                <div class="process-step text-center">
-                    <div class="process-icon-wrapper mb-4">
-                        <div class="icon-bg bg-light-orange">
-                            <i class="bi bi-patch-check text-green fs-1"></i>
+            <div class="col-lg-3 col-md-6">
+                <div class="process-new-card">
+                    <div class="card-body-content">
+                        <div class="d-flex justify-content-between align-items-start position-relative">
+                            <h4 class="process-title">Analyze & Grow</h4>
+                            <div class="big-number-bg">03</div>
                         </div>
-                        <span class="step-badge">03</span>
+                        <p class="process-desc">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+                        </p>
                     </div>
-                    <h4 class="fw-bold mb-3">Quality Check</h4>
-                    <p class="text-muted small px-2">
-                        Denounce with righteous its indignations and dislikes men who beguiled demoralized.
-                    </p>
+                    <div class="process-card-footer">
+                        <span class="step-label">STEP</span>
+                        <span class="step-num">03</span>
+                    </div>
                 </div>
             </div>
 
             <!-- Step 4 -->
-            <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-                <div class="process-step text-center">
-                    <div class="process-icon-wrapper mb-4">
-                        <div class="icon-bg bg-light-orange">
-                            <i class="bi bi-box-seam text-orange fs-1"></i>
+            <div class="col-lg-3 col-md-6">
+                <div class="process-new-card">
+                    <div class="card-body-content">
+                        <div class="d-flex justify-content-between align-items-start position-relative">
+                            <h4 class="process-title">Analyze & Grow</h4>
+                            <div class="big-number-bg">04</div>
                         </div>
-                        <span class="step-badge">04</span>
+                        <p class="process-desc">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+                        </p>
                     </div>
-                    <h4 class="fw-bold mb-3">Delivery</h4>
-                    <p class="text-muted small px-2">
-                        Sases are perfectly simple and easy too distinguish in a free when power of choice.
-                    </p>
+                    <div class="process-card-footer">
+                        <span class="step-label">STEP</span>
+                        <span class="step-num">04</span>
+                    </div>
                 </div>
             </div>
-
-            <!-- Decorative Dashed Line (Background) -->
-            <!-- <div class="process-connector d-none d-lg-block"></div> -->
 
         </div>
     </div>

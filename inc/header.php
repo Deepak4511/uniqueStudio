@@ -19,8 +19,6 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
 
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-
 </head>
 
 <body>
@@ -30,17 +28,17 @@
         <div class="topbar py-50">
             <div class="container-fluid d-flex justify-content-between align-items-center ">
 
-                <div class="d-flex gap-4">
+                <!-- <div class="d-flex gap-4">
                     <span><i class="bi bi-cloud-upload text-danger"></i> Upload Your File</span>
                     <span><i class="bi bi-image text-danger"></i> Request a Sample</span>
-                </div>
+                </div> -->
 
                 <div class="phone-pill">
                     <i class="bi bi-telephone"></i>
-                    Printing Solutions Sales: (+41)-888-56-7890, Service: 1800.123.4567
+                    Printing Solutions Sales: <span>(+41)-888-56-7890</span>, Service: <span>1800.123.4567</span>
                 </div>
 
-                <div>
+                <div class="nav_icons">
                     Follow On
                     <i class="bi bi-facebook ms-2"></i>
                     <i class="bi bi-twitter ms-2"></i>
@@ -80,12 +78,6 @@
                         <button class="quote-btn">
                             GET A QUOTE
                         </button>
-
-
-                        <!-- Grid Icon -->
-                        <div class="icon-circle">
-                            <i class="bi bi-grid-3x3-gap"></i>
-                        </div>
 
                     </div>
 
