@@ -15,10 +15,10 @@
                     Whether you need a small batch of business cards or a large format banner, we have the expertise to bring your vision to life.
                 </p>
                 <div class="d-flex justify-content-center gap-3 flex-wrap">
-                    <a href="#" class="btn btn-orange btn-lg rounded-pill px-5 py-3 fw-bold shadow-lg hvr-float">
+                    <a href="products/" class="btn btn-orange btn-lg rounded-pill px-5 py-3 fw-bold shadow-lg hvr-float">
                         START YOUR PROJECT <i class="bi bi-arrow-right ms-2"></i>
                     </a>
-                    <a href="#" class="btn btn-outline-light btn-lg rounded-pill px-5 py-3 fw-bold hvr-float">
+                    <a href="pages/contact.php" class="btn btn-outline-light btn-lg rounded-pill px-5 py-3 fw-bold hvr-float">
                         CONTACT US
                     </a>
                 </div>

@@ -41,7 +41,7 @@
                                 </svg>
                             </div>
 
-                            <div class="position-relative hero_content_sec text-center text-lg-start z-1">
+                            <div class="position-relative hero_content_sec text-center text-lg-start z-1 glass-effect pe-5">
                                 <h1 class="hero-headline">
                                     <span class="text-highlight">
                                         Photo Frames
@@ -65,7 +65,7 @@
 
                         <!-- Right Image Side -->
                         <div class="col-lg-6 col-12 position-relative">
-                            <img src="assets/img/HeroFrameImg.png" class="w-100 h-100 object-fit-cover float-end" alt="hero" />
+                            <img src="assets/img/HeroFrameImg.png" class="w-100 h-100 object-fit-cover float-end" style="animation: float 6s ease-in-out infinite;" alt="hero" />
 
                             <div class="blob blob-orange-sm"></div>
                             <div class="blob blob-orange-md"></div>
@@ -87,7 +87,7 @@
                                     </g>
                                 </svg>
                             </div>
-                            <div class="position-relative ps-lg-5 ms-lg-5 text-center text-lg-start z-1">
+                            <div class="position-relative hero_content_sec ps-lg-5 ms-lg-5 text-center text-lg-start z-1 glass-effect pe-5">
                                 <h1 class="hero-headline">
                                     <span class="text-highlight">
                                         Canvas Prints
@@ -107,7 +107,7 @@
                             </div>
                         </div>
                         <div class="col-lg-6 col-12 position-relative">
-                            <img src="assets/img/HeroFrameImg.png" class="w-100 h-100 object-fit-cover float-end" alt="hero" />
+                            <img src="assets/img/HeroFrameImg.png" class="w-100 h-100 object-fit-cover float-end" style="animation: float 6s ease-in-out infinite;" alt="hero" />
                             <div class="blob blob-orange-sm"></div>
                             <div class="blob blob-orange-md"></div>
                             <div class="blob blob-green-lg-mapped"></div>
@@ -128,7 +128,7 @@
                                     </g>
                                 </svg>
                             </div>
-                            <div class="position-relative ps-lg-5 ms-lg-5 text-center text-lg-start z-1">
+                            <div class="position-relative hero_content_sec ps-lg-5 ms-lg-5 text-center text-lg-start z-1 glass-effect pe-5">
                                 <h1 class="hero-headline">
                                     <span class="text-highlight">
                                         Custom Gifts
@@ -148,7 +148,7 @@
                             </div>
                         </div>
                         <div class="col-lg-6 col-12 position-relative">
-                            <img src="assets/img/HeroFrameImg.png" class="w-100 h-100 object-fit-cover float-end" alt="hero" />
+                            <img src="assets/img/HeroFrameImg.png" class="w-100 h-100 object-fit-cover float-end" style="animation: float 6s ease-in-out infinite;" alt="hero" />
                             <div class="blob blob-orange-sm"></div>
                             <div class="blob blob-orange-md"></div>
                             <div class="blob blob-green-lg-mapped"></div>

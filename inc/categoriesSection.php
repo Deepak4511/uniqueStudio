@@ -31,7 +31,7 @@
                             </div>
                             <div class="card-divider my-3"></div>
                             <div class="card-footer-link">
-                                <a href="#" class="read-more-link text-uppercase fw-bold">
+                                <a href="products/index.php?category=5" class="read-more-link text-uppercase fw-bold">
                                     <i class="bi bi-arrow-right text-orange me-2"></i> Read More
                                 </a>
                             </div>
@@ -52,7 +52,7 @@
                             </div>
                             <div class="card-divider my-3"></div>
                             <div class="card-footer-link">
-                                <a href="#" class="read-more-link text-uppercase fw-bold">
+                                <a href="products/index.php?category=6" class="read-more-link text-uppercase fw-bold">
                                     <i class="bi bi-arrow-right text-orange me-2"></i> Read More
                                 </a>
                             </div>
@@ -73,7 +73,7 @@
                             </div>
                             <div class="card-divider my-3"></div>
                             <div class="card-footer-link">
-                                <a href="#" class="read-more-link text-uppercase fw-bold">
+                                <a href="products/index.php?category=1" class="read-more-link text-uppercase fw-bold">
                                     <i class="bi bi-arrow-right text-orange me-2"></i> Read More
                                 </a>
                             </div>
@@ -94,7 +94,7 @@
                             </div>
                             <div class="card-divider my-3"></div>
                             <div class="card-footer-link">
-                                <a href="#" class="read-more-link text-uppercase fw-bold">
+                                <a href="products/" class="read-more-link text-uppercase fw-bold">
                                     <i class="bi bi-arrow-right text-orange me-2"></i> Read More
                                 </a>
                             </div>
@@ -115,7 +115,7 @@
                             </div>
                             <div class="card-divider my-3"></div>
                             <div class="card-footer-link">
-                                <a href="#" class="read-more-link text-uppercase fw-bold">
+                                <a href="products/index.php?category=1" class="read-more-link text-uppercase fw-bold">
                                     <i class="bi bi-arrow-right text-orange me-2"></i> Read More
                                 </a>
                             </div>
@@ -132,7 +132,7 @@
         <!-- Button -->
         <div class="row mt-3">
             <div class="col-12 text-center">
-                <a href="#" class="btn btn-orange rounded-pill px-5 py-3 fw-bold text-uppercase ls-1">More Categories</a>
+                <a href="products/" class="btn btn-orange rounded-pill px-5 py-3 fw-bold text-uppercase ls-1 text-decoration-none">More Categories</a>
             </div>
         </div>
 

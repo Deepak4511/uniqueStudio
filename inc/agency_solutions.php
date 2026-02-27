@@ -25,7 +25,7 @@
                     <!-- Title Section -->
                     <div class="section-header mb-4">
                         <div class="separator-line mb-3"></div>
-                        <h2 class="agency-title display-5 fw-bold mb-4">Digital agency problems <br>and their best solutions</h2>
+                        <h2 class="agency-title display-5 fw-bold mb-4">Proud of our Past, Printing for the Future</h2>
                     </div>
 
                     <!-- Description Text -->
@@ -65,6 +65,48 @@
                 </div>
             </div>
 
+        </div>
+
+        <!-- Stats section start here -->
+
+        <!-- Stats Section -->
+        <div class="row pt-5 mt-4 g-4 stats-grid align-items-center">
+            <div class="col-lg-3 col-6">
+                <div class="stat-item position-relative">
+                    <h2 class="stat-number">3k+</h2>
+                    <p class="stat-label">Successful Projects</p>
+                    <div class="stat-separator d-none d-lg-block">
+                        <span class="sep-circle"></span>
+                        <span class="sep-half"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-6">
+                <div class="stat-item position-relative">
+                    <h2 class="stat-number">200+</h2>
+                    <p class="stat-label">Expert Team</p>
+                    <div class="stat-separator d-none d-lg-block">
+                        <span class="sep-circle"></span>
+                        <span class="sep-half"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-6">
+                <div class="stat-item position-relative">
+                    <h2 class="stat-number">350+</h2>
+                    <p class="stat-label">Happy Customers</p>
+                    <div class="stat-separator d-none d-lg-block">
+                        <span class="sep-circle"></span>
+                        <span class="sep-half"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-6">
+                <div class="stat-item position-relative border-0">
+                    <h2 class="stat-number">16+</h2>
+                    <p class="stat-label">Years of Experience</p>
+                </div>
+            </div>
         </div>
     </div>
 </section>

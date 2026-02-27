@@ -1,0 +1,288 @@
+{
+  "version": "2.8",
+  "children": [
+    {
+      "type": "frame",
+      "id": "eKoze",
+      "x": 0,
+      "y": 0,
+      "name": "Landing Page",
+      "width": 1440,
+      "fill": "#FFFBF7",
+      "layout": "vertical",
+      "children": [
+        {
+          "type": "frame",
+          "id": "ui8KN",
+          "name": "Navbar",
+          "width": "fill_container",
+          "height": 80,
+          "fill": "#FFFBF7",
+          "padding": [
+            0,
+            80
+          ],
+          "children": [
+            {
+              "type": "frame",
+              "id": "fn7nf",
+              "name": "logoContainer",
+              "gap": 12,
+              "children": [
+                {
+                  "type": "rectangle",
+                  "cornerRadius": 10,
+                  "id": "lkN3r",
+                  "name": "logoIcon",
+                  "fill": "#D4644E",
+                  "width": 32,
+                  "height": 32
+                },
+                {
+                  "type": "text",
+                  "id": "zAtAJ",
+                  "name": "logoText",
+                  "fill": "#2D2522",
+                  "content": "uniqueStudio",
+                  "fontFamily": "Fraunces",
+                  "fontSize": 24,
+                  "fontWeight": "bold"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "Z6Scp",
+              "name": "navLinks",
+              "gap": 40,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "lTylQ",
+                  "name": "homeLink",
+                  "fill": "#2D2522",
+                  "content": "Home",
+                  "fontFamily": "DM Sans",
+                  "fontSize": 15,
+                  "fontWeight": "500"
+                },
+                {
+                  "type": "text",
+                  "id": "38wMT",
+                  "name": "servicesLink",
+                  "fill": "#6B5E5E",
+                  "content": "Services",
+                  "fontFamily": "DM Sans",
+                  "fontSize": 15,
+                  "fontWeight": "500"
+                },
+                {
+                  "type": "text",
+                  "id": "fRUtX",
+                  "name": "workLink",
+                  "fill": "#6B5E5E",
+                  "content": "Our Work",
+                  "fontFamily": "DM Sans",
+                  "fontSize": 15,
+                  "fontWeight": "500"
+                },
+                {
+                  "type": "text",
+                  "id": "D8TPf",
+                  "name": "aboutLink",
+                  "fill": "#6B5E5E",
+                  "content": "About",
+                  "fontFamily": "DM Sans",
+                  "fontSize": 15,
+                  "fontWeight": "500"
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "yl1vh",
+              "name": "navRight",
+              "gap": 24,
+              "children": [
+                {
+                  "type": "text",
+                  "id": "Xl2yP",
+                  "name": "loginLink",
+                  "fill": "#6B5E5E",
+                  "content": "Log in",
+                  "fontFamily": "DM Sans",
+                  "fontSize": 15,
+                  "fontWeight": "500"
+                },
+                {
+                  "type": "frame",
+                  "id": "z3pnH",
+                  "name": "quoteBtn",
+                  "fill": "#2D2522",
+                  "cornerRadius": 28,
+                  "padding": [
+                    12,
+                    24
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "2O2Mw",
+                      "name": "quoteText",
+                      "fill": "#FFFFFF",
+                      "content": "Get a Free Quote",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 14,
+                      "fontWeight": "600"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "frame",
+          "id": "rFuB0",
+          "name": "Hero",
+          "width": "fill_container",
+          "fill": "#FFFBF7",
+          "gap": 60,
+          "padding": 80,
+          "children": [
+            {
+              "type": "frame",
+              "id": "mUqer",
+              "name": "heroLeft",
+              "width": "fill_container",
+              "layout": "vertical",
+              "gap": 40,
+              "children": [
+                {
+                  "type": "frame",
+                  "id": "xN1LR",
+                  "name": "badge",
+                  "fill": "#FEF0E8",
+                  "cornerRadius": 20,
+                  "padding": [
+                    8,
+                    16
+                  ],
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "pqiGn",
+                      "name": "badgeText",
+                      "fill": "#D4644E",
+                      "content": "NEW: PRINTING SERVICES",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 13,
+                      "fontWeight": "500"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "qHO4R",
+                  "name": "heroText",
+                  "layout": "vertical",
+                  "gap": 24,
+                  "children": [
+                    {
+                      "type": "text",
+                      "id": "iKnFx",
+                      "name": "headline",
+                      "fill": "#2D2522",
+                      "content": "Transform Your\nBrand Identity",
+                      "fontFamily": "Fraunces",
+                      "fontSize": 72,
+                      "fontWeight": "600"
+                    },
+                    {
+                      "type": "text",
+                      "id": "3iJiy",
+                      "name": "subhead",
+                      "fill": "#6B5E5E",
+                      "content": "Premium design, printing, and digital solutions crafted to elevate your business. From business cards to full-scale web experiences.",
+                      "fontFamily": "DM Sans",
+                      "fontSize": 18,
+                      "fontWeight": "normal"
+                    }
+                  ]
+                },
+                {
+                  "type": "frame",
+                  "id": "thIhV",
+                  "name": "ctaGroup",
+                  "gap": 16,
+                  "children": [
+                    {
+                      "type": "frame",
+                      "id": "Z4Wr7",
+                      "name": "primaryCta",
+                      "fill": "#D4644E",
+                      "cornerRadius": 28,
+                      "padding": [
+                        16,
+                        32
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "CsbZu",
+                          "name": "primaryCtaText",
+                          "fill": "#FFFFFF",
+                          "content": "Start Your Project",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 15,
+                          "fontWeight": "600"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "frame",
+                      "id": "hsqk9",
+                      "name": "secondaryCta",
+                      "fill": "#FFFFFF",
+                      "cornerRadius": 28,
+                      "padding": [
+                        16,
+                        32
+                      ],
+                      "children": [
+                        {
+                          "type": "text",
+                          "id": "2cGA8",
+                          "name": "secondaryCtaText",
+                          "fill": "#6B5E5E",
+                          "content": "View Our Portfolio",
+                          "fontFamily": "DM Sans",
+                          "fontSize": 15,
+                          "fontWeight": "600"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "frame",
+              "id": "Kh5tw",
+              "name": "heroRight",
+              "width": "fill_container",
+              "height": 500,
+              "fill": {
+                "type": "image",
+                "enabled": true,
+                "url": "./images/generated-1771838171269.png",
+                "mode": "fill"
+              },
+              "cornerRadius": 24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

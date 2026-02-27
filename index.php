@@ -1,5 +1,6 @@
 <?php
 $page = 'Home';
+require_once 'includes/functions.php';
 include('inc/header.php');
 ?>
 
@@ -36,11 +37,6 @@ include('inc/popularProducts.php');
 <!-- Working Process Section -->
 <?php
 include('inc/workingProcessSection.php');
-?>
-
-<!-- Stats Section -->
-<?php
-include('inc/statsSection.php');
 ?>
 
 
